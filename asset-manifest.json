@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Bilalfaisal786/facebook-post/static/css/main.3f38c2d9.css",
+    "main.js": "/Bilalfaisal786/facebook-post/static/js/main.97380b20.js",
+    "static/media/post3.png": "/Bilalfaisal786/facebook-post/static/media/post3.f979aa6b6e3b2c8e5784.png",
+    "static/media/post1.jpg": "/Bilalfaisal786/facebook-post/static/media/post1.8387e9c040165ea7e776.jpg",
+    "static/media/post2.jpg": "/Bilalfaisal786/facebook-post/static/media/post2.a3b61f9ef339cf42febd.jpg",
+    "index.html": "/Bilalfaisal786/facebook-post/index.html",
+    "main.3f38c2d9.css.map": "/Bilalfaisal786/facebook-post/static/css/main.3f38c2d9.css.map",
+    "main.97380b20.js.map": "/Bilalfaisal786/facebook-post/static/js/main.97380b20.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f38c2d9.css",
+    "static/js/main.97380b20.js"
+  ]
+}
